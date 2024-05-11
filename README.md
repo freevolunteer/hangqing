@@ -72,7 +72,7 @@ lv1代表level1行情，lv2代表level2行情。 格式示例:
 }
 ```
 
-##SSE接收示例:
+## SSE接收示例:
 - Shell
 > curl -N 'http://127.0.0.1:31800/hq'
 
